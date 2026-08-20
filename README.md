@@ -40,7 +40,7 @@ The Stock Market Prediction application leverages historical financial data and 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/ShubhamShaw01/StockMarketPrediction.git
+   git clone https://github.com/DebanjanMukherjee22/StockMarketPrediction.git
    cd StockMarketPrediction
    ```
 
@@ -172,4 +172,4 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 For any questions or feedback, please contact:
 
-- **Shubham Shaw** - [GitHub Profile](https://github.com/ShubhamShaw01)
+- **Debanjan Mukherjee** - [GitHub Profile](https://github.com/DebanjanMukherjee22)
